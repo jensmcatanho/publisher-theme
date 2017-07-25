@@ -3272,3 +3272,22 @@ time.published + .updated {
 		max-width: 1380px;
 	}
 }
+
+/*
+	Customizations by memuller
+ */
+
+body {
+	background-color: #2b2c30;
+	color: #eee;
+}
+
+a, .widget a {
+	color: #bcde72;
+}
+a:visited { color: #bcde72; }
+
+.site-title, .site-title a, .entry-title,
+h1, h2, h3, h4, h5, h6 {
+	color: #fff;
+}
