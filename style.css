@@ -3291,3 +3291,57 @@ a:visited { color: #bcde72; }
 h1, h2, h3, h4, h5, h6 {
 	color: #fff;
 }
+
+.site-title {
+		font-size: 47px;
+}
+
+.jetpack-social-navigation li a {
+	color: #eee;
+}
+
+@media screen and (min-width: 32.375em) {
+	.entry-title { font-size: 42px; }
+}
+
+#hero-header a.site-logo-link {
+	display: none;
+}
+
+.button, .more-link {
+	background: #99bc50;
+}
+
+.more-link {
+	background: none;
+	display: inline-block;
+	width: inherit;
+	color: #99bc50;
+	margin: 0 0 1em;
+	padding: 0;
+}
+
+body, .entry-content, .entry-summary, .page-content {
+	font-family: "Open Sans";
+	/*font-size: 14px;*/
+	font-weight: 300;
+}
+
+.entry-title, .site-title a, h1, h2, h3, h4, h5, h6, .widget .widget-title {
+	font-family: "Josefin Sans";
+}
+
+article .entry-meta {
+	margin-bottom: 1.5em;
+}
+
+article .entry-author .author-title {
+	color: inherit;
+}
+
+article .site-posted-on strong {
+		color: #929292;
+}
+article .site-posted-on .entry-date {
+	color: #eee;
+}
