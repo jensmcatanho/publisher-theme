@@ -3293,8 +3293,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-title {
-		font-size: 47px;
+		font-size: 50px;
 }
+.entry-title a:visited { color: #fff; }
 
 .jetpack-social-navigation li a {
 	color: #eee;
@@ -3308,11 +3309,11 @@ h1, h2, h3, h4, h5, h6 {
 	display: none;
 }
 
-.button, .more-link {
+.button, #submit {
 	background: #398c67;
 }
 
-.more-link {
+a.more-link {
 	background: none;
 	display: inline-block;
 	width: inherit;
@@ -3320,6 +3321,8 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 1em;
 	padding: 0;
 }
+a.more-link:hover { background: none; color: white; }
+a.more-link:visited { color: #398c67; }
 
 body, .entry-content, .entry-summary, .page-content {
 	font-family: "Open Sans";
