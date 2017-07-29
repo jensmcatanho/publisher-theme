@@ -283,7 +283,7 @@ button,
 input,
 select,
 textarea {
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-size: 18px;
 	line-height: 1.75;
 	color: #383838;
@@ -302,7 +302,7 @@ h6 {
 	clear: both;
 	margin-top: .875em;
 	margin-bottom: .875em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	line-height: 1.1;
 	color: #333332;
 }
@@ -400,7 +400,7 @@ i {
 blockquote {
 	margin: 1.75em .875em 1.75em -1.9em;
 	padding: 0 0 0 1.75em;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-style: italic;
 	border: solid #0087be;
 	border-width: 0 0 0 3px;
@@ -418,7 +418,7 @@ blockquote.aligncenter,
 blockquote.alignleft,
 blockquote.alignright {
 	padding: .875em 0;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-size: 20px;
 	font-style: italic;
 	text-align: center;
@@ -651,7 +651,7 @@ input[type="submit"],
 	cursor: pointer;
 	-webkit-transition: background 120ms ease-in-out, box-shadow 120ms ease-in-out;
 			transition: background 120ms ease-in-out, box-shadow 120ms ease-in-out;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	font-style: normal;
@@ -736,7 +736,7 @@ textarea {
 	box-sizing: border-box;
 	-webkit-transition: color 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
 			transition: color 160ms ease, border-color 160ms ease, box-shadow 160ms ease;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	color: #404040;
 	border: 1px solid #a1a1a1;
 	border-radius: 3px;
@@ -823,7 +823,7 @@ input::-moz-focus-inner {
 	padding: .4375em .875em;
 	-webkit-transition: background 200ms ease-in-out, box-shadow 200ms ease-in-out, color 200ms ease-in-out;
 			transition: background 200ms ease-in-out, box-shadow 200ms ease-in-out, color 200ms ease-in-out;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 17px;
 	font-weight: bold;
 	line-height: 1;
@@ -903,7 +903,7 @@ input::-moz-focus-inner {
 .post-navigation {
 	margin-top: 2.675em;
 	padding: .4375em 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	border-bottom: solid 1px #ddd;
 	border-top: solid 1px #ddd;
 }
@@ -1001,7 +1001,7 @@ input::-moz-focus-inner {
 	clear: both;
 	width: 100%;
 	margin: 0 auto;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 17px;
 	font-weight: 700;
 	text-align: left;
@@ -1245,13 +1245,13 @@ body:not(.single) .entry-summary + .entry-footer {
 .entry-content,
 .entry-summary,
 .page-content {
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 }
 
 .entry-content .subtitle {
 	margin-top: -5px;
 	margin-bottom: 1.75em;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-size: 24px;
 	font-weight: normal;
 	font-style: italic;
@@ -1259,7 +1259,7 @@ body:not(.single) .entry-summary + .entry-footer {
 }
 
 div#jp-relatedposts h3.jp-relatedposts-headline em {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 }
 
 .site .comments-area > :first-child,
@@ -1536,13 +1536,13 @@ object {
 
 .comments-area {
 	padding-top: 2.675em;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 }
 
 .comments-title,
 .comment-reply-title {
 	display: inline-block;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 32px;
 	font-weight: 700;
 }
@@ -1867,13 +1867,13 @@ body.highlander-enabled .comments-area > .comment-respond:first-child {
 .comment-form label {
 	display: block;
 	margin-bottom: .21875em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 17px;
 	color: #b3b3b1;
 }
 
 .comment-form span.required {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 20px;
 	line-height: 0;
 	vertical-align: middle;
@@ -1954,7 +1954,7 @@ p.no-comments {
 .widget .widget-title,
 .widget .widgettitle {
 	margin: 0 0 .4375em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-weight: bold;
 	margin-bottom: .875em;
 	font-size: 17px;
@@ -2099,7 +2099,7 @@ p.no-comments {
 
 .widget_recent_entries span.post-date {
 	display: block;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-style: italic;
 }
 
@@ -2205,7 +2205,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 
 .site-title {
 	margin: .4375em 0 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 38px;
 	font-weight: bold;
 	line-height: 1.2;
@@ -2223,7 +2223,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 
 .site-description {
 	margin: .4375em 0 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 17px;
 	font-weight: inherit;
 	line-height: 1.4;
@@ -2253,7 +2253,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 
 .page-header:not(.page-header-light) .taxonomy-description {
 	margin-top: .875em;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 }
 
 .not-found .page-header-light {
@@ -2282,7 +2282,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 .entry-title {
 	margin-top: 0;
 	margin-bottom: .4375em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 32px;
 	line-height: 1.3;
 	color: #333332;
@@ -2304,7 +2304,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 
 .entry-meta,
 .entry-footer {
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	font-style: normal;
@@ -2425,7 +2425,7 @@ body.gravatar-logo-disabled:not(.has-header-image) .site-header {
 
 .site-info {
 	padding: 5.25em 0 1.75em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 14px;
 	text-align: center;
 	color: #8d8d8a;
@@ -2491,7 +2491,7 @@ body:not(.single) .hentry.empty-content .post-image-link {
 	left: 0;
 	display: block;
 	padding: .109375em .875em;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 15px;
 	font-weight: bold;
 	color: white;
@@ -2591,7 +2591,7 @@ time.published + .updated {
 .page-links {
 	clear: both;
 	margin: 0 0 .875em;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	line-height: 1.2;
 	text-align: left;
 }
@@ -2631,7 +2631,7 @@ time.published + .updated {
 
 .single .post-edit-link {
 	display: block;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 15px;
 }
 
@@ -2792,7 +2792,7 @@ time.published + .updated {
 	display: block;
 	clear: right;
 	margin: 1.75em 0 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 15px;
 	font-weight: 700;
 	font-style: normal;
@@ -2803,7 +2803,7 @@ time.published + .updated {
 .site-posted-on time {
 	display: block;
 	margin: 0;
-	font-family: Georgia, "Times New Roman", serif;
+	font-family: "Open Sans", Georgia, serif;
 	font-size: 15px;
 	font-weight: inherit;
 	font-style: normal;
@@ -2859,7 +2859,7 @@ time.published + .updated {
 
 #infinite-footer .container {
 	padding: 0;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
+	font-family: "Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif;
 	font-size: 12px;
 	color: #a5a5a5;
 	border: 0;
@@ -3283,9 +3283,9 @@ body {
 }
 
 a, .widget a {
-	color: #bcde72;
+	color: #398c67;
 }
-a:visited { color: #bcde72; }
+a:visited { color: #398c67; }
 
 .site-title, .site-title a, .entry-title,
 h1, h2, h3, h4, h5, h6 {
@@ -3309,27 +3309,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .button, .more-link {
-	background: #99bc50;
+	background: #398c67;
 }
 
 .more-link {
 	background: none;
 	display: inline-block;
 	width: inherit;
-	color: #99bc50;
+	color: #398c67;
 	margin: 0 0 1em;
 	padding: 0;
 }
 
 body, .entry-content, .entry-summary, .page-content {
 	font-family: "Open Sans";
-	/*font-size: 14px;*/
 	font-weight: 300;
 }
 
-.entry-title, .site-title a, h1, h2, h3, h4, h5, h6, .widget .widget-title {
+/*.entry-title, .site-title a, h1, h2, h3, h4, h5, h6, .widget .widget-title {
 	font-family: "Josefin Sans";
-}
+}*/
 
 article .entry-meta {
 	margin-bottom: 1.5em;
@@ -3345,3 +3344,5 @@ article .site-posted-on strong {
 article .site-posted-on .entry-date {
 	color: #eee;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Open+Sans');
