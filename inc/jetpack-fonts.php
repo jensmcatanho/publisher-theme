@@ -60,7 +60,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'body',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '19px' ),
 		)
 	);
@@ -70,7 +70,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		input,
 		select',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '19px' ),
 		)
 	);
@@ -78,7 +78,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'textarea',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '19px' ),
 		)
 	);
@@ -122,7 +122,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		.widget_text h5,
 		.widget_text h6',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 		)
 	);
 
@@ -188,7 +188,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'blockquote',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-style', 'value' => 'italic' ),
 		)
 	);
@@ -279,7 +279,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		.posts-navigation .nav-links a,
 		#content #infinite-handle span button',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '15px' ),
 			array( 'property' => 'font-style', 'value' => 'normal' ),
 			array( 'property' => 'font-weight', 'value' => '400' ),
@@ -294,7 +294,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		input[type="url"],
 		textarea',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 		)
 	);
 
@@ -331,7 +331,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.post-navigation',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 		)
 	);
 
@@ -367,7 +367,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
     TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.main-navigation',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 		)
 	);
 
@@ -407,14 +407,14 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		.entry-summary,
 		.page-content',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 		)
 	);
 
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.entry-content .subtitle',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-size', 'value' => '1.3em' ),
 			array( 'property' => 'font-style', 'value' => 'italic' ),
 			array( 'property' => 'font-weight', 'value' => 'normal' ),
@@ -424,7 +424,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'headings',
 		'div#jp-relatedposts h3.jp-relatedposts-headline em',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 		)
 	);
 
@@ -464,7 +464,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'#comments',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 		)
 	);
 
@@ -472,7 +472,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		'.comment-reply-title,
 		.comments-title',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '26px' ),
 			array( 'property' => 'font-weight', 'value' => '700' ),
 		)
@@ -574,7 +574,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.comment-form label',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '15px' ),
 		)
 	);
@@ -660,7 +660,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.widget_recent_entries span.post-date',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-size', 'value' => '0.9em' ),
 			array( 'property' => 'font-style', 'value' => 'italic' ),
 		)
@@ -669,7 +669,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.site-description',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-size', 'value' => '16px' ),
 			array( 'property' => 'font-style', 'value' => 'italic' ),
 			array( 'property' => 'font-weight', 'value' => 'inherit' ),
@@ -679,7 +679,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'headings',
 		'.image-post-title',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '16px' ),
 			array( 'property' => 'font-weight', 'value' => '700' ),
 		)
@@ -697,7 +697,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.site-posted-on time',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-size', 'value' => '12px' ),
 			array( 'property' => 'font-style', 'value' => 'normal' ),
 			array( 'property' => 'font-weight', 'value' => 'inherit' ),
@@ -714,7 +714,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.page-header:not(.page-header-light) .taxonomy-description',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 		)
 	);
 
@@ -737,7 +737,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'headings',
 		'.entry-title',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '2.2em' ),
 		)
 	);
@@ -745,7 +745,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.light-text',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '13px' ),
 			array( 'property' => 'font-style', 'value' => 'normal' ),
 			array( 'property' => 'font-weight', 'value' => '400' ),
@@ -778,7 +778,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.site-info',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '14px' ),
 		)
 	);
@@ -788,7 +788,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		array(
 			array( 'property' => 'font-size', 'value' => '16px' ),
 			array( 'property' => 'font-weight', 'value' => 'bold' ),
-            array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+            array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 		)
 	);
 
@@ -796,7 +796,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 		'.post-details,
 		.post-details a',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '14px' ),
 			array( 'property' => 'font-style', 'value' => 'normal' ),
 			array( 'property' => 'font-weight', 'value' => '400' ),
@@ -828,14 +828,14 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.page-links',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 		)
 	);
 
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.post-edit-link',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '15px' ),
 		)
 	);
@@ -850,7 +850,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'headings',
 		'#post-cover-image .cover-meta .single-post-title',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '42px' ),
 		)
 	);
@@ -858,7 +858,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'headings',
 		'#hero-header .site-title',
 		array(
-			array( 'property' => 'font-family', 'value' => '-apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif' ),
+			array( 'property' => 'font-family', 'value' => '"Josefin Sans", "Segoe UI", "Roboto", "Ubuntu", "Helvetica Neue", sans-serif' ),
 			array( 'property' => 'font-size', 'value' => '41px' ),
 		)
 	);
@@ -888,7 +888,7 @@ add_filter( 'typekit_add_font_category_rules', function( $category_rules ) {
 	TypekitTheme::add_font_category_rule( $category_rules, 'body-text',
 		'.post-author-card .author-description',
 		array(
-			array( 'property' => 'font-family', 'value' => 'Georgia, "Times New Roman", serif' ),
+			array( 'property' => 'font-family', 'value' => '"Open Sans", Georgia, serif' ),
 			array( 'property' => 'font-size', 'value' => '14px' ),
 			array( 'property' => 'font-style', 'value' => 'italic' ),
 		)
