@@ -3347,3 +3347,7 @@ article .site-posted-on strong {
 article .site-posted-on .entry-date {
 	color: #eee;
 }
+
+.content-area {
+	max-width: 850px;
+}
