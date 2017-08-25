@@ -3356,6 +3356,6 @@ article .site-posted-on .entry-date {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
-.post-image-link {
+article.has-post-thumbnail .post-image-link {
 	display: none;
 }
