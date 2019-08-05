@@ -3359,3 +3359,8 @@ article .site-posted-on .entry-date {
 article.has-post-thumbnail .post-image-link {
 	display: none;
 }
+
+.site-content {
+    background-color: #353337;
+    box-shadow: 0px 0px 0px 0px,0px 1px 12px black;
+}
