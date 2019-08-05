@@ -1,0 +1,24 @@
+{
+  "name": "jensmcatanho/wp.jensmcatanho.theme",
+  "description": "Theme for jensmcatanho.com, based on Independent Publisher",
+  "type": "wordpress-theme",
+  "minimum-stability" : "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jean Michel Catanho",
+      "email": "jensmcatanho@gmail.com"
+    },
+    {
+      "name": "Matheus E. Muller",
+      "email": "hello@memuller.com"
+    },
+    {
+      "name": "Ole Fredrik Lie",
+      "email": "mail@olefredrik.com"
+    }
+  ],
+  "require": {
+      "composer/installers": "~1.0"
+  }
+}
